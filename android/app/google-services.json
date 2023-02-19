@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "805800973612",
+    "firebase_url": "https://iris-socialnetwork.firebaseio.com",
+    "project_id": "iris-socialnetwork",
+    "storage_bucket": "iris-socialnetwork.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805800973612:android:88279e341d606f86",
+        "android_client_info": {
+          "package_name": "com.iris.socialnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805800973612-alcb2r5h0nd4rbra6ilq3gp0i96336o7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iris.socialnetwork",
+            "certificate_hash": "12f583ae8f7db64eae2abc8691f07ca6fd9a499c"
+          }
+        },
+        {
+          "client_id": "805800973612-iifqbpnibkt0353iuql2uq1j4eavi00r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iris.socialnetwork",
+            "certificate_hash": "3503ba523f16ec27db341d817fd3b17d2fb6e145"
+          }
+        },
+        {
+          "client_id": "805800973612-lnuc5fl9kpsat480eaao9t10ut4ks7su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvT4Au_umqb-QvCk0dYpEWmrw4LijkcWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805800973612-lnuc5fl9kpsat480eaao9t10ut4ks7su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+
+enum MESSAGE_TYPE{
+  SUCCESS,
+  ERROR,
+  INFO,
+  WARNING,
+}
+
