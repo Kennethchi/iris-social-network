@@ -8,14 +8,14 @@ Watch Video Demo at: https://player.vimeo.com/video/800210722?h=c8233789cc
 <br>
 <table>
   <tr>
-    <td><img src="pic1.jpg" width=270 height=480></td>
-    <td><img src="pic3.jpg" width=270 height=480></td>
-    <td><img src="pic4.jpg" width=270 height=480></td>
+    <td><img src="pic1.jpg" width=290 height=480></td>
+    <td><img src="pic3.jpg" width=290 height=480></td>
+    <td><img src="pic4.jpg" width=290 height=480></td>
   </tr>
   <tr>
-    <td><img src="pic5.jpg" width=270 height=480></td>
-    <td><img src="pic2.jpg" width=270 height=480></td>
-    <td><img src="pic6.jpg" width=270 height=480></td>
+    <td><img src="pic5.jpg" width=290 height=480></td>
+    <td><img src="pic2.jpg" width=290 height=480></td>
+    <td><img src="pic6.jpg" width=290 height=480></td>
   </tr>
  </table>
 
