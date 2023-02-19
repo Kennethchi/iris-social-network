@@ -3,7 +3,7 @@ A Gamified Social network platform
 
 Download Android App at: https://play.google.com/store/apps/details?id=com.iris.socialnetwork
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/800210722?h=c8233789cc" width="640" height="1329" frameborder="0" allowfullscreen></iframe>
+Watch Video Demo at: https://player.vimeo.com/video/800210722?h=c8233789cc
 
 <br>
 <table>
